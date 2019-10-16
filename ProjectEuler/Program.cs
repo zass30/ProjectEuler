@@ -10,8 +10,9 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-//            _213.Run(30, 30, 50);
-            _215.Run(32, 10);
+            //            _213.Run(30, 30, 50);
+            //            _215.Run(32, 10);
+            _161.Run();
             Console.ReadKey();
         }
     }
